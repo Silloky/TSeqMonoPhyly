@@ -4,13 +4,13 @@
     "description": "Reciprocal monophyly test on the tree sequence",
     "analysis_settings": {
         "ancestral_pop_id": -1,
-        "bootstrap_samples": 100
+        "bootstrap_samples": 80
     },
     "perf": {
-        "threads": 100,
-        "start": "2024-07-12 11:10:27.203911",
-        "end": "2024-07-12 11:10:39.653280",
-        "duration": "0:00:12.449369"
+        "threads": 80,
+        "start": "2024-07-12 16:08:25.105680",
+        "end": "2024-07-12 16:08:35.637747",
+        "duration": "0:00:10.532067"
     },
     "result": {
         "percentage": 0.0,
@@ -23,7 +23,7 @@
             "lower": 0.0,
             "upper": 0.0
         },
-        "absolute_results": {
+        "raw": {
             "positive": "0",
             "negative": "988",
             "total_trees": 988,

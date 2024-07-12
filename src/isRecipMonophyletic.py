@@ -1,7 +1,7 @@
 import pandas as pd
 import tskit as tsk
 
-def isRecipMonophyletic(tree, pop_by_node, ancestral) :
+def isRecipMonophyletic(tree, pop_by_node, ancestral, pop_groups) :
 
     nodes_by_pop = pd.DataFrame(columns=['nodes']) # This will be the list of leaves per population
 
@@ -15,6 +15,10 @@ def isRecipMonophyletic(tree, pop_by_node, ancestral) :
                     nodes_by_pop.loc[current_pop] = [[]] # Create a new entry for the population
 
                 nodes_by_pop.at[current_pop, 'nodes'].append(leaf) # Add the leaf to the population
+
+    for pop_group in pop_groups:
+        nodes_by_pop.loc[pop_group[0], 'nodes'] = nodes_by_pop.loc[pop_group[0], 'nodes'] + nodes_by_pop.loc[pop_group[1], 'nodes']
+        nodes_by_pop.drop(pop_group[1], inplace=True)
     
     nodes_by_pop['mrca'] = nodes_by_pop['nodes'].apply(lambda x: tree.mrca(*x)) # Identify the MRCA of the population's leaves
 
