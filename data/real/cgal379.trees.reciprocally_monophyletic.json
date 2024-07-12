@@ -1,16 +1,16 @@
 {
     "file": "cgal379.trees",
+    "test": "reciprocal_monophyly",
+    "description": "Reciprocal monophyly test on the tree sequence",
     "analysis_settings": {
-        "id": "reciprocal_monophyly",
-        "description": "Reciprocal monophyly test on the tree sequence",
         "ancestral_pop_id": -1,
-        "bootstrap_samples": 5
+        "bootstrap_samples": 100
     },
     "perf": {
-        "threads": 2,
-        "start": "2024-07-12 08:35:51.627306",
-        "end": "2024-07-12 08:36:07.246235",
-        "duration": "0:00:15.618929"
+        "threads": 100,
+        "start": "2024-07-12 11:10:27.203911",
+        "end": "2024-07-12 11:10:39.653280",
+        "duration": "0:00:12.449369"
     },
     "result": {
         "percentage": 0.0,
