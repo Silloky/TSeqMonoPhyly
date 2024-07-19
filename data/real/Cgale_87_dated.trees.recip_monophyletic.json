@@ -1,0 +1,3674 @@
+{
+    "file": "Cgale_87_dated.trees",
+    "test": "reciprocal_monophyly",
+    "description": "Reciprocal monophyly test on the tree sequence",
+    "analysis_settings": {
+        "bootstrap_samples": 0
+    },
+    "perf": {
+        "multiprocessing": false,
+        "threads": 4,
+        "start": "2024-07-19 12:26:10.487121",
+        "end": "2024-07-19 12:26:20.132761",
+        "duration": "0:00:09.645640"
+    },
+    "result": {
+        "raw": {
+            "tree_sequence_length": 67459.0,
+            "positive": 35,
+            "negative": 421,
+            "total_trees": 456,
+            "percentage": 12.475725996531226,
+            "details": [
+                {
+                    "bounds": [
+                        0.0,
+                        62.0
+                    ],
+                    "span": 62.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        62.0,
+                        455.0
+                    ],
+                    "span": 393.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        455.0,
+                        660.0
+                    ],
+                    "span": 205.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        660.0,
+                        784.0
+                    ],
+                    "span": 124.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        784.0,
+                        854.0
+                    ],
+                    "span": 70.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        854.0,
+                        988.0
+                    ],
+                    "span": 134.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        988.0,
+                        1169.0
+                    ],
+                    "span": 181.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        1169.0,
+                        1177.0
+                    ],
+                    "span": 8.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        1177.0,
+                        1232.0
+                    ],
+                    "span": 55.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        1232.0,
+                        1256.0
+                    ],
+                    "span": 24.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        1256.0,
+                        1391.0
+                    ],
+                    "span": 135.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        1391.0,
+                        1419.0
+                    ],
+                    "span": 28.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        1419.0,
+                        1450.0
+                    ],
+                    "span": 31.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        1450.0,
+                        1550.0
+                    ],
+                    "span": 100.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        1550.0,
+                        1714.0
+                    ],
+                    "span": 164.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        1714.0,
+                        2385.0
+                    ],
+                    "span": 671.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        2385.0,
+                        2482.0
+                    ],
+                    "span": 97.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        2482.0,
+                        2544.0
+                    ],
+                    "span": 62.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        2544.0,
+                        2591.0
+                    ],
+                    "span": 47.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        2591.0,
+                        2604.0
+                    ],
+                    "span": 13.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        2604.0,
+                        2612.0
+                    ],
+                    "span": 8.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        2612.0,
+                        2670.0
+                    ],
+                    "span": 58.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        2670.0,
+                        2697.0
+                    ],
+                    "span": 27.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        2697.0,
+                        2803.0
+                    ],
+                    "span": 106.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        2803.0,
+                        2853.0
+                    ],
+                    "span": 50.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        2853.0,
+                        2893.0
+                    ],
+                    "span": 40.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        2893.0,
+                        2899.0
+                    ],
+                    "span": 6.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        2899.0,
+                        2971.0
+                    ],
+                    "span": 72.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        2971.0,
+                        3223.0
+                    ],
+                    "span": 252.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        3223.0,
+                        3409.0
+                    ],
+                    "span": 186.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        3409.0,
+                        3517.0
+                    ],
+                    "span": 108.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        3517.0,
+                        3533.0
+                    ],
+                    "span": 16.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        3533.0,
+                        3636.0
+                    ],
+                    "span": 103.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        3636.0,
+                        3699.0
+                    ],
+                    "span": 63.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        3699.0,
+                        3806.0
+                    ],
+                    "span": 107.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        3806.0,
+                        3921.0
+                    ],
+                    "span": 115.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        3921.0,
+                        3993.0
+                    ],
+                    "span": 72.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        3993.0,
+                        4022.0
+                    ],
+                    "span": 29.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        4022.0,
+                        4075.0
+                    ],
+                    "span": 53.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        4075.0,
+                        4105.0
+                    ],
+                    "span": 30.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        4105.0,
+                        4126.0
+                    ],
+                    "span": 21.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        4126.0,
+                        4205.0
+                    ],
+                    "span": 79.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        4205.0,
+                        4439.0
+                    ],
+                    "span": 234.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        4439.0,
+                        4599.0
+                    ],
+                    "span": 160.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        4599.0,
+                        4626.0
+                    ],
+                    "span": 27.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        4626.0,
+                        4893.0
+                    ],
+                    "span": 267.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        4893.0,
+                        4938.0
+                    ],
+                    "span": 45.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        4938.0,
+                        4985.0
+                    ],
+                    "span": 47.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        4985.0,
+                        5008.0
+                    ],
+                    "span": 23.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5008.0,
+                        5103.0
+                    ],
+                    "span": 95.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5103.0,
+                        5151.0
+                    ],
+                    "span": 48.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5151.0,
+                        5212.0
+                    ],
+                    "span": 61.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5212.0,
+                        5218.0
+                    ],
+                    "span": 6.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5218.0,
+                        5239.0
+                    ],
+                    "span": 21.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5239.0,
+                        5249.0
+                    ],
+                    "span": 10.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5249.0,
+                        5292.0
+                    ],
+                    "span": 43.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5292.0,
+                        5410.0
+                    ],
+                    "span": 118.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5410.0,
+                        5504.0
+                    ],
+                    "span": 94.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5504.0,
+                        5607.0
+                    ],
+                    "span": 103.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5607.0,
+                        5630.0
+                    ],
+                    "span": 23.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5630.0,
+                        5663.0
+                    ],
+                    "span": 33.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5663.0,
+                        5670.0
+                    ],
+                    "span": 7.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5670.0,
+                        5795.0
+                    ],
+                    "span": 125.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5795.0,
+                        5827.0
+                    ],
+                    "span": 32.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5827.0,
+                        5850.0
+                    ],
+                    "span": 23.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5850.0,
+                        5933.0
+                    ],
+                    "span": 83.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5933.0,
+                        5937.0
+                    ],
+                    "span": 4.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        5937.0,
+                        6012.0
+                    ],
+                    "span": 75.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        6012.0,
+                        6019.0
+                    ],
+                    "span": 7.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        6019.0,
+                        6094.0
+                    ],
+                    "span": 75.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        6094.0,
+                        6140.0
+                    ],
+                    "span": 46.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        6140.0,
+                        6583.0
+                    ],
+                    "span": 443.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        6583.0,
+                        6622.0
+                    ],
+                    "span": 39.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        6622.0,
+                        6923.0
+                    ],
+                    "span": 301.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        6923.0,
+                        7029.0
+                    ],
+                    "span": 106.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        7029.0,
+                        7074.0
+                    ],
+                    "span": 45.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        7074.0,
+                        7210.0
+                    ],
+                    "span": 136.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        7210.0,
+                        7496.0
+                    ],
+                    "span": 286.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        7496.0,
+                        7628.0
+                    ],
+                    "span": 132.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        7628.0,
+                        7738.0
+                    ],
+                    "span": 110.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        7738.0,
+                        7821.0
+                    ],
+                    "span": 83.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        7821.0,
+                        7852.0
+                    ],
+                    "span": 31.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        7852.0,
+                        7919.0
+                    ],
+                    "span": 67.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        7919.0,
+                        7930.0
+                    ],
+                    "span": 11.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        7930.0,
+                        7974.0
+                    ],
+                    "span": 44.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        7974.0,
+                        8190.0
+                    ],
+                    "span": 216.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8190.0,
+                        8233.0
+                    ],
+                    "span": 43.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8233.0,
+                        8421.0
+                    ],
+                    "span": 188.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8421.0,
+                        8500.0
+                    ],
+                    "span": 79.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8500.0,
+                        8512.0
+                    ],
+                    "span": 12.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8512.0,
+                        8567.0
+                    ],
+                    "span": 55.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8567.0,
+                        8600.0
+                    ],
+                    "span": 33.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8600.0,
+                        8617.0
+                    ],
+                    "span": 17.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8617.0,
+                        8670.0
+                    ],
+                    "span": 53.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8670.0,
+                        8690.0
+                    ],
+                    "span": 20.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8690.0,
+                        8718.0
+                    ],
+                    "span": 28.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8718.0,
+                        8794.0
+                    ],
+                    "span": 76.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8794.0,
+                        8925.0
+                    ],
+                    "span": 131.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8925.0,
+                        8984.0
+                    ],
+                    "span": 59.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        8984.0,
+                        9044.0
+                    ],
+                    "span": 60.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        9044.0,
+                        9073.0
+                    ],
+                    "span": 29.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        9073.0,
+                        9237.0
+                    ],
+                    "span": 164.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        9237.0,
+                        9479.0
+                    ],
+                    "span": 242.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        9479.0,
+                        9494.0
+                    ],
+                    "span": 15.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        9494.0,
+                        9591.0
+                    ],
+                    "span": 97.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        9591.0,
+                        9632.0
+                    ],
+                    "span": 41.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        9632.0,
+                        9780.0
+                    ],
+                    "span": 148.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        9780.0,
+                        9880.0
+                    ],
+                    "span": 100.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        9880.0,
+                        9957.0
+                    ],
+                    "span": 77.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        9957.0,
+                        10071.0
+                    ],
+                    "span": 114.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        10071.0,
+                        10167.0
+                    ],
+                    "span": 96.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        10167.0,
+                        10262.0
+                    ],
+                    "span": 95.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        10262.0,
+                        10326.0
+                    ],
+                    "span": 64.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        10326.0,
+                        10343.0
+                    ],
+                    "span": 17.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        10343.0,
+                        10443.0
+                    ],
+                    "span": 100.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        10443.0,
+                        10477.0
+                    ],
+                    "span": 34.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        10477.0,
+                        10661.0
+                    ],
+                    "span": 184.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        10661.0,
+                        10850.0
+                    ],
+                    "span": 189.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        10850.0,
+                        10986.0
+                    ],
+                    "span": 136.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        10986.0,
+                        11102.0
+                    ],
+                    "span": 116.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        11102.0,
+                        11159.0
+                    ],
+                    "span": 57.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        11159.0,
+                        11341.0
+                    ],
+                    "span": 182.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        11341.0,
+                        11342.0
+                    ],
+                    "span": 1.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        11342.0,
+                        16608.0
+                    ],
+                    "span": 5266.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        16608.0,
+                        16609.0
+                    ],
+                    "span": 1.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        16609.0,
+                        16951.0
+                    ],
+                    "span": 342.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        16951.0,
+                        16972.0
+                    ],
+                    "span": 21.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        16972.0,
+                        17004.0
+                    ],
+                    "span": 32.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        17004.0,
+                        17167.0
+                    ],
+                    "span": 163.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        17167.0,
+                        17411.0
+                    ],
+                    "span": 244.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        17411.0,
+                        17562.0
+                    ],
+                    "span": 151.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        17562.0,
+                        17908.0
+                    ],
+                    "span": 346.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        17908.0,
+                        17930.0
+                    ],
+                    "span": 22.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        17930.0,
+                        17961.0
+                    ],
+                    "span": 31.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        17961.0,
+                        18037.0
+                    ],
+                    "span": 76.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        18037.0,
+                        18127.0
+                    ],
+                    "span": 90.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        18127.0,
+                        18223.0
+                    ],
+                    "span": 96.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        18223.0,
+                        18262.0
+                    ],
+                    "span": 39.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        18262.0,
+                        18309.0
+                    ],
+                    "span": 47.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        18309.0,
+                        18346.0
+                    ],
+                    "span": 37.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        18346.0,
+                        18391.0
+                    ],
+                    "span": 45.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        18391.0,
+                        18448.0
+                    ],
+                    "span": 57.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        18448.0,
+                        18777.0
+                    ],
+                    "span": 329.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        18777.0,
+                        18956.0
+                    ],
+                    "span": 179.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        18956.0,
+                        18973.0
+                    ],
+                    "span": 17.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        18973.0,
+                        19029.0
+                    ],
+                    "span": 56.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        19029.0,
+                        19093.0
+                    ],
+                    "span": 64.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        19093.0,
+                        19330.0
+                    ],
+                    "span": 237.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        19330.0,
+                        19368.0
+                    ],
+                    "span": 38.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        19368.0,
+                        19430.0
+                    ],
+                    "span": 62.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        19430.0,
+                        19694.0
+                    ],
+                    "span": 264.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        19694.0,
+                        19745.0
+                    ],
+                    "span": 51.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        19745.0,
+                        20032.0
+                    ],
+                    "span": 287.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        20032.0,
+                        20634.0
+                    ],
+                    "span": 602.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        20634.0,
+                        20879.0
+                    ],
+                    "span": 245.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        20879.0,
+                        20963.0
+                    ],
+                    "span": 84.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        20963.0,
+                        21350.0
+                    ],
+                    "span": 387.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        21350.0,
+                        21420.0
+                    ],
+                    "span": 70.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        21420.0,
+                        21438.0
+                    ],
+                    "span": 18.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        21438.0,
+                        21487.0
+                    ],
+                    "span": 49.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        21487.0,
+                        21507.0
+                    ],
+                    "span": 20.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        21507.0,
+                        21616.0
+                    ],
+                    "span": 109.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        21616.0,
+                        21733.0
+                    ],
+                    "span": 117.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        21733.0,
+                        21857.0
+                    ],
+                    "span": 124.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        21857.0,
+                        21922.0
+                    ],
+                    "span": 65.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        21922.0,
+                        21946.0
+                    ],
+                    "span": 24.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        21946.0,
+                        21947.0
+                    ],
+                    "span": 1.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        21947.0,
+                        22091.0
+                    ],
+                    "span": 144.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22091.0,
+                        22213.0
+                    ],
+                    "span": 122.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22213.0,
+                        22295.0
+                    ],
+                    "span": 82.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22295.0,
+                        22464.0
+                    ],
+                    "span": 169.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22464.0,
+                        22559.0
+                    ],
+                    "span": 95.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22559.0,
+                        22595.0
+                    ],
+                    "span": 36.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22595.0,
+                        22602.0
+                    ],
+                    "span": 7.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22602.0,
+                        22652.0
+                    ],
+                    "span": 50.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22652.0,
+                        22699.0
+                    ],
+                    "span": 47.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22699.0,
+                        22897.0
+                    ],
+                    "span": 198.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22897.0,
+                        22924.0
+                    ],
+                    "span": 27.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22924.0,
+                        22975.0
+                    ],
+                    "span": 51.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        22975.0,
+                        23088.0
+                    ],
+                    "span": 113.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        23088.0,
+                        23341.0
+                    ],
+                    "span": 253.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        23341.0,
+                        23370.0
+                    ],
+                    "span": 29.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        23370.0,
+                        23428.0
+                    ],
+                    "span": 58.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        23428.0,
+                        23445.0
+                    ],
+                    "span": 17.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        23445.0,
+                        23640.0
+                    ],
+                    "span": 195.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        23640.0,
+                        23651.0
+                    ],
+                    "span": 11.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        23651.0,
+                        23715.0
+                    ],
+                    "span": 64.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        23715.0,
+                        23742.0
+                    ],
+                    "span": 27.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        23742.0,
+                        24081.0
+                    ],
+                    "span": 339.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        24081.0,
+                        24090.0
+                    ],
+                    "span": 9.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        24090.0,
+                        24175.0
+                    ],
+                    "span": 85.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        24175.0,
+                        24253.0
+                    ],
+                    "span": 78.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        24253.0,
+                        24268.0
+                    ],
+                    "span": 15.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        24268.0,
+                        24274.0
+                    ],
+                    "span": 6.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        24274.0,
+                        24405.0
+                    ],
+                    "span": 131.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        24405.0,
+                        24634.0
+                    ],
+                    "span": 229.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        24634.0,
+                        24777.0
+                    ],
+                    "span": 143.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        24777.0,
+                        24812.0
+                    ],
+                    "span": 35.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        24812.0,
+                        24928.0
+                    ],
+                    "span": 116.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        24928.0,
+                        25258.0
+                    ],
+                    "span": 330.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        25258.0,
+                        25261.0
+                    ],
+                    "span": 3.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        25261.0,
+                        25401.0
+                    ],
+                    "span": 140.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        25401.0,
+                        25551.0
+                    ],
+                    "span": 150.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        25551.0,
+                        25595.0
+                    ],
+                    "span": 44.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        25595.0,
+                        25650.0
+                    ],
+                    "span": 55.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        25650.0,
+                        25712.0
+                    ],
+                    "span": 62.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        25712.0,
+                        25797.0
+                    ],
+                    "span": 85.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        25797.0,
+                        25919.0
+                    ],
+                    "span": 122.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        25919.0,
+                        26160.0
+                    ],
+                    "span": 241.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        26160.0,
+                        26541.0
+                    ],
+                    "span": 381.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        26541.0,
+                        26680.0
+                    ],
+                    "span": 139.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        26680.0,
+                        26830.0
+                    ],
+                    "span": 150.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        26830.0,
+                        26968.0
+                    ],
+                    "span": 138.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        26968.0,
+                        27148.0
+                    ],
+                    "span": 180.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        27148.0,
+                        27178.0
+                    ],
+                    "span": 30.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        27178.0,
+                        27197.0
+                    ],
+                    "span": 19.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        27197.0,
+                        27368.0
+                    ],
+                    "span": 171.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        27368.0,
+                        27451.0
+                    ],
+                    "span": 83.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        27451.0,
+                        27479.0
+                    ],
+                    "span": 28.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        27479.0,
+                        27786.0
+                    ],
+                    "span": 307.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        27786.0,
+                        27802.0
+                    ],
+                    "span": 16.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        27802.0,
+                        28086.0
+                    ],
+                    "span": 284.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        28086.0,
+                        28273.0
+                    ],
+                    "span": 187.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        28273.0,
+                        28414.0
+                    ],
+                    "span": 141.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        28414.0,
+                        28773.0
+                    ],
+                    "span": 359.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        28773.0,
+                        28997.0
+                    ],
+                    "span": 224.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        28997.0,
+                        29083.0
+                    ],
+                    "span": 86.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        29083.0,
+                        29258.0
+                    ],
+                    "span": 175.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        29258.0,
+                        29381.0
+                    ],
+                    "span": 123.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        29381.0,
+                        29382.0
+                    ],
+                    "span": 1.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        29382.0,
+                        29430.0
+                    ],
+                    "span": 48.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        29430.0,
+                        29509.0
+                    ],
+                    "span": 79.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        29509.0,
+                        29510.0
+                    ],
+                    "span": 1.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        29510.0,
+                        29561.0
+                    ],
+                    "span": 51.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        29561.0,
+                        29685.0
+                    ],
+                    "span": 124.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        29685.0,
+                        30113.0
+                    ],
+                    "span": 428.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30113.0,
+                        30156.0
+                    ],
+                    "span": 43.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30156.0,
+                        30176.0
+                    ],
+                    "span": 20.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30176.0,
+                        30185.0
+                    ],
+                    "span": 9.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30185.0,
+                        30200.0
+                    ],
+                    "span": 15.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30200.0,
+                        30283.0
+                    ],
+                    "span": 83.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30283.0,
+                        30374.0
+                    ],
+                    "span": 91.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30374.0,
+                        30542.0
+                    ],
+                    "span": 168.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        30542.0,
+                        30570.0
+                    ],
+                    "span": 28.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30570.0,
+                        30591.0
+                    ],
+                    "span": 21.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30591.0,
+                        30610.0
+                    ],
+                    "span": 19.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30610.0,
+                        30795.0
+                    ],
+                    "span": 185.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30795.0,
+                        30876.0
+                    ],
+                    "span": 81.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30876.0,
+                        30914.0
+                    ],
+                    "span": 38.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30914.0,
+                        30972.0
+                    ],
+                    "span": 58.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30972.0,
+                        30993.0
+                    ],
+                    "span": 21.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        30993.0,
+                        31050.0
+                    ],
+                    "span": 57.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31050.0,
+                        31156.0
+                    ],
+                    "span": 106.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31156.0,
+                        31228.0
+                    ],
+                    "span": 72.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31228.0,
+                        31304.0
+                    ],
+                    "span": 76.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31304.0,
+                        31330.0
+                    ],
+                    "span": 26.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31330.0,
+                        31365.0
+                    ],
+                    "span": 35.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31365.0,
+                        31400.0
+                    ],
+                    "span": 35.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31400.0,
+                        31413.0
+                    ],
+                    "span": 13.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31413.0,
+                        31476.0
+                    ],
+                    "span": 63.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31476.0,
+                        31623.0
+                    ],
+                    "span": 147.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31623.0,
+                        31830.0
+                    ],
+                    "span": 207.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31830.0,
+                        31963.0
+                    ],
+                    "span": 133.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        31963.0,
+                        32177.0
+                    ],
+                    "span": 214.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32177.0,
+                        32214.0
+                    ],
+                    "span": 37.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32214.0,
+                        32227.0
+                    ],
+                    "span": 13.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32227.0,
+                        32297.0
+                    ],
+                    "span": 70.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32297.0,
+                        32335.0
+                    ],
+                    "span": 38.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32335.0,
+                        32339.0
+                    ],
+                    "span": 4.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32339.0,
+                        32376.0
+                    ],
+                    "span": 37.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32376.0,
+                        32639.0
+                    ],
+                    "span": 263.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32639.0,
+                        32657.0
+                    ],
+                    "span": 18.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32657.0,
+                        32680.0
+                    ],
+                    "span": 23.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32680.0,
+                        32749.0
+                    ],
+                    "span": 69.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32749.0,
+                        32764.0
+                    ],
+                    "span": 15.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32764.0,
+                        32805.0
+                    ],
+                    "span": 41.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        32805.0,
+                        33015.0
+                    ],
+                    "span": 210.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        33015.0,
+                        33070.0
+                    ],
+                    "span": 55.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        33070.0,
+                        33249.0
+                    ],
+                    "span": 179.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        33249.0,
+                        33345.0
+                    ],
+                    "span": 96.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        33345.0,
+                        33490.0
+                    ],
+                    "span": 145.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        33490.0,
+                        33674.0
+                    ],
+                    "span": 184.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        33674.0,
+                        33707.0
+                    ],
+                    "span": 33.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        33707.0,
+                        33924.0
+                    ],
+                    "span": 217.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        33924.0,
+                        33976.0
+                    ],
+                    "span": 52.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        33976.0,
+                        34138.0
+                    ],
+                    "span": 162.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        34138.0,
+                        39284.0
+                    ],
+                    "span": 5146.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        39284.0,
+                        39285.0
+                    ],
+                    "span": 1.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        39285.0,
+                        39383.0
+                    ],
+                    "span": 98.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        39383.0,
+                        39438.0
+                    ],
+                    "span": 55.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        39438.0,
+                        39730.0
+                    ],
+                    "span": 292.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        39730.0,
+                        39808.0
+                    ],
+                    "span": 78.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        39808.0,
+                        39818.0
+                    ],
+                    "span": 10.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        39818.0,
+                        40094.0
+                    ],
+                    "span": 276.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        40094.0,
+                        40428.0
+                    ],
+                    "span": 334.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        40428.0,
+                        40574.0
+                    ],
+                    "span": 146.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        40574.0,
+                        40701.0
+                    ],
+                    "span": 127.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        40701.0,
+                        40776.0
+                    ],
+                    "span": 75.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        40776.0,
+                        40863.0
+                    ],
+                    "span": 87.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        40863.0,
+                        41245.0
+                    ],
+                    "span": 382.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        41245.0,
+                        41426.0
+                    ],
+                    "span": 181.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        41426.0,
+                        41529.0
+                    ],
+                    "span": 103.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        41529.0,
+                        41774.0
+                    ],
+                    "span": 245.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        41774.0,
+                        41931.0
+                    ],
+                    "span": 157.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        41931.0,
+                        42022.0
+                    ],
+                    "span": 91.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42022.0,
+                        42064.0
+                    ],
+                    "span": 42.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42064.0,
+                        42082.0
+                    ],
+                    "span": 18.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42082.0,
+                        42214.0
+                    ],
+                    "span": 132.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42214.0,
+                        42335.0
+                    ],
+                    "span": 121.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42335.0,
+                        42433.0
+                    ],
+                    "span": 98.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42433.0,
+                        42510.0
+                    ],
+                    "span": 77.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42510.0,
+                        42617.0
+                    ],
+                    "span": 107.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42617.0,
+                        42629.0
+                    ],
+                    "span": 12.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42629.0,
+                        42639.0
+                    ],
+                    "span": 10.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42639.0,
+                        42651.0
+                    ],
+                    "span": 12.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42651.0,
+                        42779.0
+                    ],
+                    "span": 128.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        42779.0,
+                        43005.0
+                    ],
+                    "span": 226.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        43005.0,
+                        43321.0
+                    ],
+                    "span": 316.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        43321.0,
+                        43349.0
+                    ],
+                    "span": 28.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        43349.0,
+                        43568.0
+                    ],
+                    "span": 219.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        43568.0,
+                        43701.0
+                    ],
+                    "span": 133.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        43701.0,
+                        44047.0
+                    ],
+                    "span": 346.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        44047.0,
+                        44153.0
+                    ],
+                    "span": 106.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        44153.0,
+                        44568.0
+                    ],
+                    "span": 415.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        44568.0,
+                        44784.0
+                    ],
+                    "span": 216.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        44784.0,
+                        44916.0
+                    ],
+                    "span": 132.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        44916.0,
+                        45049.0
+                    ],
+                    "span": 133.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        45049.0,
+                        45067.0
+                    ],
+                    "span": 18.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        45067.0,
+                        45362.0
+                    ],
+                    "span": 295.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        45362.0,
+                        45366.0
+                    ],
+                    "span": 4.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        45366.0,
+                        45485.0
+                    ],
+                    "span": 119.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        45485.0,
+                        45762.0
+                    ],
+                    "span": 277.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        45762.0,
+                        45878.0
+                    ],
+                    "span": 116.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        45878.0,
+                        46163.0
+                    ],
+                    "span": 285.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        46163.0,
+                        46441.0
+                    ],
+                    "span": 278.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        46441.0,
+                        46618.0
+                    ],
+                    "span": 177.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        46618.0,
+                        46879.0
+                    ],
+                    "span": 261.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        46879.0,
+                        46890.0
+                    ],
+                    "span": 11.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        46890.0,
+                        46944.0
+                    ],
+                    "span": 54.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        46944.0,
+                        47002.0
+                    ],
+                    "span": 58.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        47002.0,
+                        47178.0
+                    ],
+                    "span": 176.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        47178.0,
+                        47226.0
+                    ],
+                    "span": 48.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        47226.0,
+                        47293.0
+                    ],
+                    "span": 67.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        47293.0,
+                        47401.0
+                    ],
+                    "span": 108.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        47401.0,
+                        47456.0
+                    ],
+                    "span": 55.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        47456.0,
+                        47705.0
+                    ],
+                    "span": 249.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        47705.0,
+                        47842.0
+                    ],
+                    "span": 137.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        47842.0,
+                        48006.0
+                    ],
+                    "span": 164.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        48006.0,
+                        48294.0
+                    ],
+                    "span": 288.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        48294.0,
+                        48421.0
+                    ],
+                    "span": 127.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        48421.0,
+                        48749.0
+                    ],
+                    "span": 328.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        48749.0,
+                        48960.0
+                    ],
+                    "span": 211.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        48960.0,
+                        49165.0
+                    ],
+                    "span": 205.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        49165.0,
+                        49247.0
+                    ],
+                    "span": 82.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        49247.0,
+                        49256.0
+                    ],
+                    "span": 9.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        49256.0,
+                        49342.0
+                    ],
+                    "span": 86.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        49342.0,
+                        49482.0
+                    ],
+                    "span": 140.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        49482.0,
+                        49761.0
+                    ],
+                    "span": 279.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        49761.0,
+                        49863.0
+                    ],
+                    "span": 102.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        49863.0,
+                        49912.0
+                    ],
+                    "span": 49.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        49912.0,
+                        49945.0
+                    ],
+                    "span": 33.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        49945.0,
+                        50025.0
+                    ],
+                    "span": 80.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        50025.0,
+                        50127.0
+                    ],
+                    "span": 102.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        50127.0,
+                        50283.0
+                    ],
+                    "span": 156.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        50283.0,
+                        50458.0
+                    ],
+                    "span": 175.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        50458.0,
+                        50484.0
+                    ],
+                    "span": 26.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        50484.0,
+                        50526.0
+                    ],
+                    "span": 42.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        50526.0,
+                        50687.0
+                    ],
+                    "span": 161.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        50687.0,
+                        50986.0
+                    ],
+                    "span": 299.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        50986.0,
+                        51173.0
+                    ],
+                    "span": 187.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        51173.0,
+                        51367.0
+                    ],
+                    "span": 194.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        51367.0,
+                        51423.0
+                    ],
+                    "span": 56.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        51423.0,
+                        51530.0
+                    ],
+                    "span": 107.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        51530.0,
+                        51626.0
+                    ],
+                    "span": 96.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        51626.0,
+                        51702.0
+                    ],
+                    "span": 76.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        51702.0,
+                        51873.0
+                    ],
+                    "span": 171.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        51873.0,
+                        51909.0
+                    ],
+                    "span": 36.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        51909.0,
+                        51956.0
+                    ],
+                    "span": 47.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        51956.0,
+                        51978.0
+                    ],
+                    "span": 22.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        51978.0,
+                        52118.0
+                    ],
+                    "span": 140.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52118.0,
+                        52194.0
+                    ],
+                    "span": 76.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52194.0,
+                        52251.0
+                    ],
+                    "span": 57.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52251.0,
+                        52268.0
+                    ],
+                    "span": 17.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52268.0,
+                        52298.0
+                    ],
+                    "span": 30.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52298.0,
+                        52346.0
+                    ],
+                    "span": 48.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52346.0,
+                        52404.0
+                    ],
+                    "span": 58.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52404.0,
+                        52410.0
+                    ],
+                    "span": 6.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52410.0,
+                        52432.0
+                    ],
+                    "span": 22.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52432.0,
+                        52452.0
+                    ],
+                    "span": 20.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52452.0,
+                        52731.0
+                    ],
+                    "span": 279.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52731.0,
+                        52992.0
+                    ],
+                    "span": 261.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        52992.0,
+                        53271.0
+                    ],
+                    "span": 279.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        53271.0,
+                        53312.0
+                    ],
+                    "span": 41.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        53312.0,
+                        53789.0
+                    ],
+                    "span": 477.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        53789.0,
+                        53864.0
+                    ],
+                    "span": 75.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        53864.0,
+                        54026.0
+                    ],
+                    "span": 162.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        54026.0,
+                        54077.0
+                    ],
+                    "span": 51.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        54077.0,
+                        54331.0
+                    ],
+                    "span": 254.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        54331.0,
+                        54994.0
+                    ],
+                    "span": 663.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        54994.0,
+                        55401.0
+                    ],
+                    "span": 407.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        55401.0,
+                        55606.0
+                    ],
+                    "span": 205.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        55606.0,
+                        55996.0
+                    ],
+                    "span": 390.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        55996.0,
+                        56158.0
+                    ],
+                    "span": 162.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        56158.0,
+                        56177.0
+                    ],
+                    "span": 19.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        56177.0,
+                        56346.0
+                    ],
+                    "span": 169.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        56346.0,
+                        56562.0
+                    ],
+                    "span": 216.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        56562.0,
+                        56598.0
+                    ],
+                    "span": 36.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        56598.0,
+                        56627.0
+                    ],
+                    "span": 29.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        56627.0,
+                        56885.0
+                    ],
+                    "span": 258.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        56885.0,
+                        57130.0
+                    ],
+                    "span": 245.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        57130.0,
+                        57298.0
+                    ],
+                    "span": 168.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        57298.0,
+                        57390.0
+                    ],
+                    "span": 92.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        57390.0,
+                        57561.0
+                    ],
+                    "span": 171.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        57561.0,
+                        57647.0
+                    ],
+                    "span": 86.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        57647.0,
+                        57715.0
+                    ],
+                    "span": 68.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        57715.0,
+                        57769.0
+                    ],
+                    "span": 54.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        57769.0,
+                        58377.0
+                    ],
+                    "span": 608.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        58377.0,
+                        58645.0
+                    ],
+                    "span": 268.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        58645.0,
+                        58915.0
+                    ],
+                    "span": 270.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        58915.0,
+                        58966.0
+                    ],
+                    "span": 51.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        58966.0,
+                        59110.0
+                    ],
+                    "span": 144.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        59110.0,
+                        59200.0
+                    ],
+                    "span": 90.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        59200.0,
+                        59506.0
+                    ],
+                    "span": 306.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        59506.0,
+                        59565.0
+                    ],
+                    "span": 59.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        59565.0,
+                        59586.0
+                    ],
+                    "span": 21.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        59586.0,
+                        59623.0
+                    ],
+                    "span": 37.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        59623.0,
+                        59679.0
+                    ],
+                    "span": 56.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        59679.0,
+                        59776.0
+                    ],
+                    "span": 97.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        59776.0,
+                        59838.0
+                    ],
+                    "span": 62.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        59838.0,
+                        60120.0
+                    ],
+                    "span": 282.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        60120.0,
+                        60321.0
+                    ],
+                    "span": 201.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        60321.0,
+                        60877.0
+                    ],
+                    "span": 556.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        60877.0,
+                        61055.0
+                    ],
+                    "span": 178.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        61055.0,
+                        61682.0
+                    ],
+                    "span": 627.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        61682.0,
+                        61992.0
+                    ],
+                    "span": 310.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        61992.0,
+                        62367.0
+                    ],
+                    "span": 375.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        62367.0,
+                        62816.0
+                    ],
+                    "span": 449.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        62816.0,
+                        62941.0
+                    ],
+                    "span": 125.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        62941.0,
+                        63068.0
+                    ],
+                    "span": 127.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        63068.0,
+                        63658.0
+                    ],
+                    "span": 590.0,
+                    "monophyletic": true
+                },
+                {
+                    "bounds": [
+                        63658.0,
+                        63955.0
+                    ],
+                    "span": 297.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        63955.0,
+                        64148.0
+                    ],
+                    "span": 193.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        64148.0,
+                        64199.0
+                    ],
+                    "span": 51.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        64199.0,
+                        64341.0
+                    ],
+                    "span": 142.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        64341.0,
+                        64689.0
+                    ],
+                    "span": 348.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        64689.0,
+                        64939.0
+                    ],
+                    "span": 250.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        64939.0,
+                        65263.0
+                    ],
+                    "span": 324.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        65263.0,
+                        65687.0
+                    ],
+                    "span": 424.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        65687.0,
+                        65981.0
+                    ],
+                    "span": 294.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        65981.0,
+                        66065.0
+                    ],
+                    "span": 84.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        66065.0,
+                        66217.0
+                    ],
+                    "span": 152.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        66217.0,
+                        66505.0
+                    ],
+                    "span": 288.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        66505.0,
+                        66573.0
+                    ],
+                    "span": 68.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        66573.0,
+                        66791.0
+                    ],
+                    "span": 218.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        66791.0,
+                        67345.0
+                    ],
+                    "span": 554.0,
+                    "monophyletic": false
+                },
+                {
+                    "bounds": [
+                        67345.0,
+                        67459.0
+                    ],
+                    "span": 114.0,
+                    "monophyletic": false
+                }
+            ]
+        }
+    }
+}

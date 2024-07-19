@@ -3,30 +3,22 @@
     "test": "reciprocal_monophyly",
     "description": "Reciprocal monophyly test on the tree sequence",
     "analysis_settings": {
-        "ancestral_pop_id": -1,
-        "bootstrap_samples": 80
+        "bootstrap_samples": 0
     },
     "perf": {
-        "threads": 80,
-        "start": "2024-07-12 16:08:25.105680",
-        "end": "2024-07-12 16:08:35.637747",
-        "duration": "0:00:10.532067"
+        "multiprocessing": false,
+        "threads": 4,
+        "start": "2024-07-19 12:25:08.579119",
+        "end": "2024-07-19 12:25:29.144679",
+        "duration": "0:00:20.565560"
     },
     "result": {
-        "percentage": 0.0,
-        "stddev": 0.0,
-        "confidence_interval": {
-            "bounds": [
-                5,
-                95
-            ],
-            "lower": 0.0,
-            "upper": 0.0
-        },
         "raw": {
-            "positive": "0",
-            "negative": "988",
+            "tree_sequence_length": 111897.0,
+            "positive": 17,
+            "negative": 971,
             "total_trees": 988,
+            "percentage": 3.336997417267666,
             "details": [
                 {
                     "bounds": [
@@ -226,7 +218,7 @@
                         4369.0
                     ],
                     "span": 456.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -234,7 +226,7 @@
                         4454.0
                     ],
                     "span": 85.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -242,7 +234,7 @@
                         4837.0
                     ],
                     "span": 383.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -250,7 +242,7 @@
                         5251.0
                     ],
                     "span": 414.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -258,7 +250,7 @@
                         5453.0
                     ],
                     "span": 202.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -266,7 +258,7 @@
                         5726.0
                     ],
                     "span": 273.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -274,7 +266,7 @@
                         5832.0
                     ],
                     "span": 106.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -282,7 +274,7 @@
                         6250.0
                     ],
                     "span": 418.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -610,7 +602,7 @@
                         9901.0
                     ],
                     "span": 36.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -618,7 +610,7 @@
                         9999.0
                     ],
                     "span": 98.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -626,7 +618,7 @@
                         10024.0
                     ],
                     "span": 25.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -754,7 +746,7 @@
                         10926.0
                     ],
                     "span": 29.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -5266,7 +5258,7 @@
                         73040.0
                     ],
                     "span": 365.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -5626,7 +5618,7 @@
                         77458.0
                     ],
                     "span": 40.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -5634,7 +5626,7 @@
                         77976.0
                     ],
                     "span": 518.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -7714,7 +7706,7 @@
                         108830.0
                     ],
                     "span": 227.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
@@ -7722,7 +7714,7 @@
                         108889.0
                     ],
                     "span": 59.0,
-                    "monophyletic": false
+                    "monophyletic": true
                 },
                 {
                     "bounds": [
