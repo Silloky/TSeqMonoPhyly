@@ -12,11 +12,12 @@ def isRecipMonophyletic(tree, pop_by_node, pop_groups) :
 
             if (current_pop not in nodes_by_pop.index):
                 nodes_by_pop.loc[current_pop] = [set()] # Create a new entry for the population
+                # Set type is important here because it is unordered, so when comparing the list of nodes, order isn't important
 
             nodes_by_pop.at[current_pop, 'nodes'].add(leaf) # Add the leaf to the population
 
     for pop_group in pop_groups:
-        nodes_by_pop.loc[pop_group[0], 'nodes'] = nodes_by_pop.loc[pop_group[0], 'nodes'].union(nodes_by_pop.loc[pop_group[1], 'nodes'])
+        nodes_by_pop.loc[pop_group[0], 'nodes'] = nodes_by_pop.loc[pop_group[0], 'nodes'].union(nodes_by_pop.loc[pop_group[1], 'nodes']) # Combine the two populations according to the defined population groups
         nodes_by_pop.drop(pop_group[1], inplace=True)
 
     nodes_by_pop['mrca'] = nodes_by_pop['nodes'].apply(lambda x: tree.mrca(*x)) # Identify the MRCA of the population's leaves
