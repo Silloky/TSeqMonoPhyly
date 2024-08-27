@@ -1,31 +1,44 @@
 {
-    "input_files": [
-        "cgal379.trees",
-        "Cgale_87_dated.trees",
-        "Cgale_952_dated.trees"
-    ],
+    "input": {
+        "dir": "../../data/real/",
+        "files": [
+            "cgal379.trees",
+            "Cgale_87_dated.trees",
+            "Cgale_952_dated.trees"
+        ]
+    },
     "test": "reciprocal_monophyly",
     "description": "Reciprocal monophyly test on the tree sequence",
     "analysis_settings": {
-        "bootstrap_samples": 2
+        "bootstrap_samples": 2,
+        "pop_groups": [
+            [
+                0,
+                1
+            ],
+            [
+                2,
+                3
+            ]
+        ]
     },
     "perf": {
         "multiprocessing": false,
         "threads": 4,
-        "start": "2024-07-19 16:35:50.268306",
-        "end": "2024-07-19 16:36:31.764959",
-        "duration": "0:00:41.496653"
+        "start": "2024-08-27 15:56:12.739696",
+        "end": "2024-08-27 15:57:29.295359",
+        "duration": "0:01:16.555663"
     },
     "result": {
-        "percentage": 15.650955621960318,
-        "stddev": 0.3857121922021447,
+        "percentage": 16.795828114212195,
+        "stddev": 0.10385613342956646,
         "confidence_interval": {
             "bounds": [
                 5,
                 95
             ],
-            "lower": 15.303814648978388,
-            "upper": 15.998096594942249
+            "lower": 16.702357594125587,
+            "upper": 16.889298634298804
         },
         "raw": {
             "positive": 269,
