@@ -10,7 +10,7 @@
     "test": "reciprocal_monophyly",
     "description": "Reciprocal monophyly test on the tree sequence",
     "analysis_settings": {
-        "bootstrap_samples": 2,
+        "bootstrap_samples": 0,
         "pop_groups": [
             [
                 0,
@@ -24,22 +24,13 @@
     },
     "perf": {
         "multiprocessing": false,
-        "threads": 4,
+        "threads": 0,
         "start": "2024-08-27 15:56:12.739696",
-        "end": "2024-08-27 15:57:29.295359",
-        "duration": "0:01:16.555663"
+        "end": "2024-08-27 16:21:12.463785",
+        "duration": "0:24:59.724089"
     },
     "result": {
-        "percentage": 16.795828114212195,
-        "stddev": 0.10385613342956646,
-        "confidence_interval": {
-            "bounds": [
-                5,
-                95
-            ],
-            "lower": 16.702357594125587,
-            "upper": 16.889298634298804
-        },
+        "sampling": {},
         "raw": {
             "positive": 269,
             "negative": 2043,
